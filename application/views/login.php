@@ -36,7 +36,7 @@
 									<h3 class="font-weight-bolder text-info text-gradient">
 										Selamat Datang
 									</h3>
-									<p class="mb-0">Masukkan</p>
+									<p class="mb-0">Masukkan....</p>
 								</div>
 								<div class="card-body">
 									<form role="form" method="post" action="<?= base_url('login') ?>">
