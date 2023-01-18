@@ -7,7 +7,7 @@
   <link rel="icon" type="image/png" href="<?= base_url('assets/'); ?>assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Dinas Koperasi Jombang
+    Dinas Koperasi dan Usaha Mikro Jombang
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -31,7 +31,7 @@
       <div class="container-fluid">
         <div class="navbar-wrapper">
 
-          <a class="navbar-brand" href="javascript:;">Dinas Koperasi Jombang</a>
+          <a class="navbar-brand" href="javascript:;">Dinas Koperasi dan Usaha Mikro Jombang</a>
 
         </div>
 
@@ -96,7 +96,6 @@
             <div class="card-footer ">
               <hr>
               <div class="stats">
-                <i class="fa fa-refresh"></i>
                 Cek
               </div>
             </div>
@@ -121,7 +120,6 @@
             <div class="card-footer ">
               <hr>
               <div class="stats">
-                <i class="fa fa-calendar-o"></i>
                 Cek
               </div>
             </div>
@@ -133,7 +131,7 @@
               <div class="row">
                 <div class="col-5 col-md-4">
                   <div class="icon-big text-center icon-warning">
-                    <i class="nc-icon nc-vector text-danger"></i>
+                    <i class="nc-icon nc-sound-wave text-danger"></i>
                   </div>
                 </div>
                 <div class="col-7 col-md-8">
@@ -147,7 +145,6 @@
             <div class="card-footer ">
               <hr>
               <div class="stats">
-                <i class="fa fa-clock-o"></i>
                 Cek
               </div>
             </div>
@@ -159,13 +156,12 @@
               <div class="row">
                 <div class="col-5 col-md-4">
                   <div class="icon-big text-center icon-warning">
-                    <i class="nc-icon nc-favourite-28 text-primary"></i>
+                    <i class="nc-icon nc-single-copy-04 text-primary"></i>
                   </div>
                 </div>
                 <div class="col-7 col-md-8">
                   <div class="numbers">
                     <p class="card-category">Sistem</p>
-                    <!-- <p class="card-title">+45K<p> -->
                   </div>
                 </div>
               </div>
@@ -173,7 +169,6 @@
             <div class="card-footer ">
               <hr>
               <div class="stats">
-                <i class="fa fa-refresh"></i>
                 Cek
               </div>
             </div>
@@ -188,18 +183,18 @@
   <footer class="footer footer-black  footer-white ">
     <div class="container-fluid">
       <div class="row">
-        <nav class="footer-nav">
+        <!-- <nav class="footer-nav">
           <ul>
             <li><a href="https://www.creative-tim.com" target="_blank">Creative Tim</a></li>
             <li><a href="https://www.creative-tim.com/blog" target="_blank">Blog</a></li>
             <li><a href="https://www.creative-tim.com/license" target="_blank">Licenses</a></li>
           </ul>
-        </nav>
+        </nav> -->
         <div class="credits ml-auto">
           <span class="copyright">
             © <script>
               document.write(new Date().getFullYear())
-            </script>, made with <i class="fa fa-heart heart"></i> by Creative Tim
+            </script>, Dinas Koperasi dan Usaha Mikro <i class="fa fa-heart heart"></i> by Unwaha Tim
           </span>
         </div>
       </div>

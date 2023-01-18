@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png" />
 	<link rel="icon" type="image/png" href="<?= base_url('assets/') ?>img/favicon.png" />
-	<title>Sign In IMT</title>
+	<title>Dinkop Jombang</title>
 	<!--     Fonts and icons     -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
 	<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
@@ -23,7 +23,7 @@
 
 <body class="">
 	<div class="container position-sticky z-index-sticky top-0">
-		
+
 	</div>
 	<main class="main-content mt-0">
 		<section>
@@ -59,7 +59,7 @@
 										</div>
 									</form>
 								</div>
-								
+
 							</div>
 						</div>
 						<div class="col-md-6">
@@ -77,7 +77,7 @@
 	<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
 	<footer class="footer py-5">
 		<div class="container">
-		
+
 			<div class="row">
 				<div class="col-8 mx-auto text-center mt-1">
 					<p class="mb-0 text-secondary">
@@ -99,7 +99,7 @@
 	<script src="<?= base_url('assets/assets/') ?>js/plugins/smooth-scrollbar.min.js"></script>
 	<script src="<?= base_url('assets/assets/') ?>js/plugins/chartjs.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.10.0/dist/sweetalert2.all.min.js"></script>
-	
+
 	<!-- <?php if ($this->session->flashdata('login-gagal')) : ?>
       <script>
         Swal.fire({
